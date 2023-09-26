@@ -1,0 +1,57 @@
+{
+    "header2":"\"Computer Science student @ McGill University^500 | Aspiring Software Engineer\"",
+    "personalProjects":"personalProjects",
+    "aboutMe":"aboutMe",
+    "resume":"resume",
+    "uni":"McGill University",
+    "placeDateMc":"Montreal,QC - Aug. 2022 - Dec. 2025",
+    "bac":"Bachelor of Science",
+    "major":"Major in Computer Science",
+    "minor":"Minor in Management",
+    "courses":"Courses taken:",
+    "placeDateBDEB":"Montreal,QC - Aug. 2020 - May 2022",
+    "dec":"Diploma of Collegiate Studies",
+    "decDomain":"Natural Sciences",
+    "placeDateCL":"Laval,QC - Aug. 2015 - Jun. 2020",
+    "des":"High School Diploma",
+
+    "sci":"Software Consultant Intern",
+    "stageOpen":"During my internship at Dassault Systemes I...",
+    "DSDesc1":"Experienced the life cycle of software development and project management through an internal assignment.",
+    "DSDesc2":"Learned web development technologies through web widgets.",
+    "DSDesc3":"Programmed Excel macros using VBA to streamline workflow for my supervisor.",
+    "DSDesc4":"Effectively presented project progress and findings to diverse stakeholders, developing my soft skills while gathering valuable feedback for future development.",
+    "placeDateDS":"Montreal,QC - May 2023 - Aug. 2023",
+    "lang":"Languages",
+    "dms":"Data Management Specialist",
+    "placeDateCR":"Remote - Nov. 2022 - Present",
+    "CRDesc1":"Help research coordinators by entering data in the appropriate databases.",
+    "CRDesc2":" Fix queries based on sponsor demands and perform other tasks related to Data Management / Data Entry.",
+    "CTrole":"Order Picker",
+    "placeDateCT":"Laval,QC - Jun. 2021 - Aug. 2021",
+    "CTDesc":"Packed orders for Couche-Tard stores all around the province, all the while working in a dynamic, fast-paced warehouse setting.",
+
+    "persWebS":"Personal Website",
+    "placeDateWeb":"May 2023",
+    "webDesc":"In order to familiarize myself with web development, I built my own website using basic HTML, CSS and JavaScript. I used the typed.js library to animate my website and the jQuery framework to implement the website's translation.",
+
+    "abtMeP1":"I am a 20-year-old student currently pursuing my Bachelor's degree in Computer Science at McGill University.",
+    "abtMeP2":"I love technology. It has fascinated me for as long as I can remember and trying to understand its ins and outs is what led me down the path I am on today.",
+    "abtMeP3":"I love learning. I am constantly looking for ways to improve myself and I am always up for a challenge.",
+    "abtMeP4":"I love creating. Having projects to undertake and nurture has always been a key part of who I am.",
+    "interests":"Interests",
+    "weight":"Weight Lifting",
+    "stock":"Stock Trading",
+    "game":"Video Games",
+    "spoken":"Spoken Languages",
+    "fluid":"Fluent in English and French",
+
+    "eduP":"Education",
+    "expP":"Experience",
+    "prjP":"Personal Projects",
+    "abtP":"About Me",
+
+    "home":"home"
+
+
+}
