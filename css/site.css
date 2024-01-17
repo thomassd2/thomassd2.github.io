@@ -184,7 +184,7 @@ color:rgb(143, 183, 198);
 
 
 
-@media only screen and (min-width: 480px) and (max-width: 850px){
+@media only screen and (min-width: 100px) and (max-width: 850px){
 
     .hide{
         display:none;
@@ -192,7 +192,7 @@ color:rgb(143, 183, 198);
 
 }
 
-@media only screen and (min-width: 480px) and (max-width: 768px){
+@media only screen and (min-width: 100px) and (max-width: 768px){
     #aboutList li{
         margin-bottom:10px;
     }
