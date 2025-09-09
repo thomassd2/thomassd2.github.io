@@ -1,0 +1,627 @@
+@import url('https://fonts.cdnfonts.com/css/apple-garamond');
+
+body{
+  margin: 0;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-family: 'Apple Garamond', sans-serif;
+}
+
+#startupButton{
+  border: 4px #85858545 solid;
+  border-radius: 50%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.4s ease, border-color 0.4s ease, opacity 0.4s ease;
+  cursor: pointer;
+}
+
+#buttonImg{
+  margin:0;
+  padding:0;
+  width:80px;
+  transition: width 0.3s ease, filter 0.4s ease;
+  filter: invert(91%) sepia(2%) saturate(16%) hue-rotate(10deg) brightness(96%) contrast(100%);
+  pointer-events: none;
+}
+
+#nameHeader{
+  color:white;
+  transition: color 0.5s ease;
+  font-size: 50px;
+  cursor: pointer;
+  -webkit-user-select: none; 
+  user-select: none;
+}
+
+.corner {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:white;
+  margin:10vh;
+  font-size: 40px;
+  transition: color 0.5s ease, font-size 0.3s ease, margin 0.5s ease;
+  display:none;
+  cursor: pointer;
+}
+
+#topLeft {top: 0; left: 0;}
+#topRight {top: 0; right: 0;}
+#bottomLeft {bottom: 0;left: 0;}
+#bottomRight {bottom: 0;right: 0;}
+/*EDUCATION*/
+
+.page{
+  width:90%;
+  height:70%;
+  border: 3px solid white;
+  border-radius: 25px;
+  transition: border 0.5s ease, opacity 0.3s ease;
+}
+#edu{
+  display: none;
+  margin-top:5%;
+  opacity: 100%;
+}
+
+
+/*TIMELINES*/
+#edutimeline, #exptimeline{
+  width:6px;
+  height:0px;
+  display: flex;
+  background-color: #85858545;
+  margin-left: 80px;
+  margin-top:40px;
+  padding:0;
+  border-radius:15px;
+  transition: height 1s ease;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  float:left;
+}
+
+.timelineBtn{
+  width:50px;
+  height:50px;
+  border: 5px solid #dedede;
+  background-color: white;
+  border-radius: 50%;
+  transition: opacity 0.3s ease, background-color 0.5s ease, border-color 0.5s ease, width 0.5s ease, height 0.5s ease;
+  opacity: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.timelineBtn img{
+  height:30px;
+  transition: height 0.5s ease;
+}
+
+.timelineBtn:active{border-color: #b2b2b2;}
+
+/*EDUCATION CONTINUATION & TIMELINE*/
+#bdeb{margin-top: 25px;}
+#bdeb img{margin-left: 2px;}
+#uq{margin-bottom: 25px;}
+#uq img{margin-top:6px;}
+
+#eduContent{
+  margin-left: 150px;
+  margin-top: 25px;
+  margin-right:25px;
+  opacity: 0%;
+  transition: opacity 0.3s ease
+}
+
+#eduContent h1{
+  font-weight:400;
+  font-size: 40px;
+  color: #ed1b2f;
+  margin:0;
+}
+#eduContent h2{
+  margin: 0;
+  margin-left:10px;
+  margin-top: 10px;
+}
+#eduContent h3{
+  font-weight: lighter;
+  margin:0;
+  margin-left:10px;
+}
+
+#eduContent ul{
+  margin:0;
+  font-weight: lighter;
+  margin-top:0;
+  margin-left:10px;
+  font-size: 20px;
+}
+
+#coursesList{
+  font-size: 25px;
+  border:3px solid #85858545;
+  border-radius: 20px;
+  height:285px;
+  width:450px;
+  overflow: scroll;
+}
+
+#coursesList ul{margin: 0;font-size: 22px;}
+
+#bdebBballPic{
+  height:265px;
+  border: 3px solid #85858545;
+  border-radius: 20px;
+}
+
+/*GOBACK BUTTONS*/
+.goBack{
+  position: absolute;
+  display:none;
+  opacity:0%;
+  transition: opacity 0.3s ease;
+  cursor:pointer;
+}
+
+.goBack img{width: 40px;}
+
+.goBack :active{filter: brightness(0) saturate(100%) invert(27%) sepia(1%) saturate(0%) hue-rotate(312deg) brightness(94%) contrast(96%);}
+
+#goBackUpRight{
+  align-self: baseline;
+  margin-left:90%;
+  margin-top:5vh;
+}
+
+#goBackUpLeft{
+  position: absolute;
+  transition: opacity 0.3s ease;
+  align-self: baseline;
+  margin-top:5vh;
+  margin-right:90%;
+  cursor:pointer;
+}
+
+#goBackDownRight{
+  align-self: end;
+  margin-left:90%;
+  margin-bottom:5vh;
+}
+
+#goBackDownLeft{
+  align-self: end;
+  margin-right:90%;
+  margin-bottom:5vh;
+}
+
+/*EXPERIENCE*/
+#exp{
+  display:none;
+  margin-bottom:5%;
+  opacity: 100%;
+}
+
+#centricity{margin-top: 25px;}
+#dassaultImg{height: 25px;}
+#dassault2Img{height: 25px;}
+#dassault2{margin-bottom: 25px;}
+
+#expContent{
+  margin-left: 150px;
+  margin-top: 25px;
+  margin-right:25px;
+  opacity: 0%;
+  transition: opacity 0.3s ease
+}
+
+#expContent h1{
+  font-weight:400;
+  font-size: 40px;
+  color: #085484;
+  margin:0;
+}
+#expContent h2{
+  margin: 0;
+  margin-left:10px;
+  margin-top: 10px;
+}
+#expContent h3{
+  font-weight: lighter;
+  margin:0;
+  margin-left:10px;
+}
+
+#expContent ul{
+  margin:0;
+  font-weight: lighter;
+  margin-top:0;
+  margin-left:10px;
+  font-size: 20px;
+}
+
+/*PROJECTS & SKILLS*/
+#prj{
+  display:none;
+  margin-top:5%;
+  opacity: 100%;
+}
+
+#prjContent{
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-right:25px;
+  opacity: 0%;
+  transition: opacity 0.3s ease
+}
+
+#prjContent h1{
+  font-weight:400;
+  font-size: 40px;
+  color: #fdb827;
+  margin:0;
+}
+#prjContent h2{
+  margin: 0;
+  margin-left:10px;
+  margin-top: 10px;
+}
+#prjContent h3{
+  font-weight: lighter;
+  margin:0;
+  margin-left:10px;
+}
+
+#prjContent ul{
+  margin:0;
+  font-weight: lighter;
+  margin-top:0;
+  margin-left:10px;
+  font-size: 20px;
+}
+
+#prof2 {
+  color: #a4a4a4
+}
+
+#skills li{
+  margin-top:5px;
+}
+
+#projects{
+  margin-top: 15px;
+}
+
+#projectWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+  margin-top: 15px;
+}
+
+#curProjectContent{
+  display: flex;
+  justify-content:space-between;
+  transition: opacity 0.3s ease;
+}
+
+.carousel{
+  position: relative;
+  overflow: hidden;
+  border-radius: 25px;
+  border: 3px solid #85858545;
+}
+
+#carousel{
+  min-width:500px;
+  max-width:500px;
+  height:250px;
+}
+#carouselImages, #carouselImages2{
+  display:flex;
+  width: max-content;
+  transition: transform 0.3s ease-in-out;
+}
+
+#leftArrow, #leftArrow2{
+  position:absolute;
+  cursor:pointer;
+  width:50px;
+  margin-left: 0;
+  top:101px;
+}
+
+#rightArrow{
+  transform: scaleX(-1);
+  position: absolute;
+  cursor:pointer;
+  width:50px;
+  margin-left: 452px;
+  top:101px;
+}
+
+.prjImg{object-fit: cover;width:500px;}
+
+#curProject {margin-right:20px;}
+
+#projectText{width:300px;}
+
+#projectText ul{height:190px;overflow: scroll;}
+
+#projectText a {color: #fdb827;text-decoration: none;}
+
+#leftArrowProj,
+#rightArrowProj {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+
+#rightArrowProj{
+  right:0;
+  transform: scaleX(-1);
+}
+
+/*TRIP*/
+
+#trip{
+  display:none;
+  margin-bottom:5%;
+  opacity: 100%;
+}
+
+#tripContent{
+  opacity: 0%;
+  height:70%;
+  transition: opacity 0.3s ease
+}
+#myTravels{
+  font-weight:400;
+  font-size: 40px;
+  color: #009ddc;
+  margin-left: 20px;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+#curTripContent{
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  margin-left: 20px;
+  flex-direction: row;
+  height: 60vh;
+}
+
+#map{
+  position: relative;
+  width: 450px;
+  height: 300px;
+}
+
+#australiaImage{
+  width:200px;
+  position: absolute;
+  left:70px;
+  top:80px;
+  transition: width 0.3s ease;
+}
+
+#australia :hover{
+  filter: brightness(0) saturate(100%) invert(75%) sepia(12%) saturate(2702%) hue-rotate(348deg) brightness(104%) contrast(87%);
+  width: 210px !important;
+}
+
+#indonesiaImage{
+  position: absolute;
+  width:200px;
+  transition: width 0.3s ease;
+}
+
+#indonesia :hover{
+  filter: brightness(0) saturate(100%) invert(28%) sepia(38%) saturate(4621%) hue-rotate(339deg) brightness(91%) contrast(91%);
+  width: 210px !important;
+}
+
+#newZealandImage{
+  width: 70px;
+  position: absolute;
+  top:190px;
+  left: 300px;
+  transition: width 0.3s ease
+}
+
+#newZealand :hover{
+  filter: brightness(0) saturate(100%) invert(51%) sepia(82%) saturate(4334%) hue-rotate(171deg) brightness(100%) contrast(101%);
+  width: 75px !important;
+}
+
+#fijiImage{
+  width: 50px;
+  position: absolute;
+  left: 375px;
+  top: 110px;
+  transition: width 0.3s ease
+}
+
+#fiji :hover{
+  filter: brightness(0) saturate(100%) invert(72%) sepia(8%) saturate(3579%) hue-rotate(60deg) brightness(92%) contrast(74%);
+  width: 60px !important;
+}
+
+#vanuatuImage{
+  width: 30px;
+  position: absolute;
+  left: 300px;
+  top: 80px;
+  transition: width 0.3s ease
+}
+
+#vanuatu :hover{
+  filter: brightness(0) saturate(100%) invert(33%) sepia(9%) saturate(6938%) hue-rotate(262deg) brightness(88%) contrast(91%);
+  width: 35px !important;
+}
+
+.country{cursor: pointer;}
+
+#curTripText {transition: opacity 0.3s ease;}
+
+#curTripTextCarousel{
+  height: 450px;
+  overflow: scroll;
+  justify-content: center;
+}
+
+#curTripText ul{
+  padding:0;
+  margin-top: 10px;
+  margin-left: 10px;
+  list-style-type: none;
+  width:400px;
+}
+#curTripText li{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.spacer{width: 25px;}
+
+.countryName{
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-top: 25px;
+  font-weight:400;
+  font-size: 40px;
+}
+
+#australiaName{color: #fdb827;}
+#indonesiaName{color: #e03a3e;}
+#newZealandName{color: #009ddc;}
+#vanuatuName{color: #963c97;}
+#fijiName{color: #61bb46;}
+
+#carousel2{
+  width:375px;
+  height:250px;
+  margin-left: 15px;
+}
+
+#rightArrow2{
+  transform: scaleX(-1);
+  position: absolute;
+  cursor:pointer;
+  width:50px;
+  margin-left: 327px;
+  top:101px;
+}
+
+.tripImg{object-fit: cover;height:250px;}
+
+
+/*RESPONSIVE*/
+
+@media screen and (max-height: 760px) {
+  #bdebBballPic{
+    display:none;
+  }
+  #coursesList{
+    height: 30vh;
+  }
+
+  #edutimeline, #exptimeline{
+    height: 55vh !important;
+  }
+
+  .countryName{
+    margin-top:0px !important;
+  }
+
+  #curTripTextCarousel{
+    height: 60vh;
+  }
+
+}
+
+@media screen and (max-width: 1100px) {
+  #carousel{
+    display:none;
+  }
+
+  #curProject{
+    margin-right: 0;
+  }
+
+  #projectText{
+    width:70vw;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .countryName{
+    margin-left: 10vw;
+  }
+  #carousel2{
+    float:right;
+  }
+  #curTripText ul{
+    width:30vw;
+    height: 50vh;
+    overflow:scroll;
+    float: right;
+    margin-bottom: 5px;
+  }
+}
+@media screen and (max-width: 730px) {
+  #coursesList{
+    width: 50vw;
+  }
+  #coursesList{
+    height: 25vh;
+  }
+}
+
+@media screen and (max-height: 500px) {
+  #myTravels{
+    display:none;
+  }
+  #curTripContent{
+    margin-top:5vh;
+  }
+  #curTripText{
+    margin-top: 0px !important;
+  }
+
+}
+
+@media screen and (max-height: 560px) {
+  #coursesList{
+    height: 15vh;
+  }
+}
+
+@media screen and (max-height: 700px) {
+  #projects{
+    overflow: scroll;
+    height:37vh;
+  }
+}
+
+
+
+
+
+
+  
+
