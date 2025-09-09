@@ -976,7 +976,7 @@ australiaButton.onclick = () => {
           </ul>
           <div class ="carousel" id="carousel2">
             <div id = "carouselImages2">
-                <img class = "tripImg" id ="img1" src="./assets/australiaPics/aus1.jpg">
+                <img class = "tripImg" id ="img1" src="assets/australiaPics/aus1.JPG">
                 <img class = "tripImg" id ="img2" src="assets/australiaPics/aus2.jpg">
                 <img class = "tripImg" id ="img3" src="assets/australiaPics/aus3.jpg">
                 <img class = "tripImg" id ="img3" src="assets/australiaPics/aus4.jpg">
