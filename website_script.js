@@ -977,27 +977,27 @@ australiaButton.onclick = () => {
           <div class ="carousel" id="carousel2">
             <div id = "carouselImages2">
                 <img class = "tripImg" id ="img1" src="assets/australiaPics/aus1.JPG">
-                <img class = "tripImg" id ="img2" src="assets/australiaPics/aus2.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus3.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus4.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus5.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus6.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus7.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus8.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus9.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus10.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus11.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus12.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus13.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus14.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus15.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus16.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus17.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus18.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus19.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus20.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus21.jpg">
-                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus22.jpg">
+                <img class = "tripImg" id ="img2" src="assets/australiaPics/aus2.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus3.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus4.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus5.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus6.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus7.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus8.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus9.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus10.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus11.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus12.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus13.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus14.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus15.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus16.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus17.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus18.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus19.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus20.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus21.JPG">
+                <img class = "tripImg" id ="img3" src="assets/australiaPics/aus22.JPG">
                 
             </div>
             <img id="leftArrow2" src = "assets/goback.png" onclick="">
@@ -1056,20 +1056,20 @@ indonesiaButton.onclick = () => {
           </ul>
           <div class ="carousel" id="carousel2">
             <div id = "carouselImages2">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal1.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal2.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal3.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal4.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal5.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal6.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal7.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal8.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal9.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal10.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal11.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal12.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal13.jpg">
-                <img class = "tripImg" id ="img1" src="assets/baliPics/bal14.jpg">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal1.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal2.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal3.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal4.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal5.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal6.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal7.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal8.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal9.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal10.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal11.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal12.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal13.JPG">
+                <img class = "tripImg" id ="img1" src="assets/baliPics/bal14.JPG">
             </div>
             <img id="leftArrow2" src = "assets/goback.png" onclick="">
             <img id="rightArrow2" src = "assets/goback.png">
@@ -1127,21 +1127,21 @@ newZealandButton.onclick = () => {
           </ul>
           <div class ="carousel" id="carousel2">
             <div id = "carouselImages2">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz1.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz2.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz3.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz4.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz5.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz6.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz7.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz8.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz9.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz10.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz11.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz12.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz13.jpg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz14.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/nzPics/nz15.jpg">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz1.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz2.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz3.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz4.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz5.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz6.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz7.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz8.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz9.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz10.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz11.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz12.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz13.JPG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz14.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/nzPics/nz15.JPG">
 
             </div>
             <img id="leftArrow2" src = "assets/goback.png" onclick="">
@@ -1200,26 +1200,26 @@ vanuatuButton.onclick = () => {
           </ul>
           <div class ="carousel" id="carousel2">
             <div id = "carouselImages2">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van1.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van2.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van3.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van4.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van5.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van6.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van7.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van8.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van9.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van10.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van11.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van12.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van13.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van14.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van15.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van16.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van17.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van18.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van19.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van20.jpeg">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van1.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van2.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van3.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van4.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van5.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van6.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van7.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van8.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van9.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van10.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van11.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van12.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van13.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van14.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van15.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van16.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van17.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van18.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van19.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/vanuatuPics/van20.JPEG">
             </div>
             <img id="leftArrow2" src = "assets/goback.png" onclick="">
             <img id="rightArrow2" src = "assets/goback.png">
@@ -1276,22 +1276,22 @@ fijiButton.onclick = () => {
           </ul>
           <div class ="carousel" id="carousel2">
             <div id = "carouselImages2">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji1.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji2.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji3.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji4.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji5.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji6.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji7.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji8.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji9.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji10.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji11.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji12.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji13.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji14.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji15.jpeg">
-                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji16.jpeg">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji1.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji2.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji3.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji4.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji5.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji6.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji7.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji8.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji9.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji10.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji11.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji12.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji13.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji14.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji15.JPEG">
+                <img class = "tripImg" id ="img1" src="assets/fijiPics/fiji16.JPEG">
                 
             </div>
             <img id="leftArrow2" src = "assets/goback.png" onclick="">
