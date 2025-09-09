@@ -368,7 +368,7 @@ mcgillbtn.addEventListener("mouseup", function (){
                 </h1>
                 <h2>Bachelor of Science, Computer Science</h2>
                 <h3>Montreal, Quebec, Canada</h3>
-                <h3>Aug. 2025 - Dec. 2025</h3>
+                <h3>Aug. 2022 - Dec. 2025</h3>
                 <ul>
                     <li>Major in Computer Science, Minor in Management</li>
                     <li>GPA: 3.84</li>
